@@ -1,8 +1,12 @@
 # Esme Koridze
+
 ====
+
 #My Contact Info:
+
 * тел. +79887559113
 * email: esmailist@yandex.ru
+
 ====
 
 #About Me
@@ -10,15 +14,16 @@ I'm into web programming. I want to learn new technologies for creating modern w
 
 
 #Skills
-HTML
-CSS 
-Git/GitHub
-Python(basic knowledge) - Django( basic knowledge), SQLite(basic knowledge).
-Wordpress, Joomla
-Figma(for web development)
-Editors: Sublime, VSCode, PyCharm community.
+-HTML
+-CSS 
+-Git/GitHub
+-Python(basic knowledge) - Django( basic knowledge), SQLite(basic knowledge).
+-Wordpress, Joomla
+-Figma(for web development)
+-Editors: Sublime, VSCode, PyCharm community.
 
 #Code Examples
+'''
 def merge(dic1,dic2):
     dic3=dic1.copy()
     dic3.update(dic2)
@@ -26,10 +31,11 @@ def merge(dic1,dic2):
 dic1={1:"hello", 2:"world"}
 dic2={3:"Python", 4:"Programming"}
 merge(dic1,dic2) # {1: 'hello', 2: 'world', 3: 'Python', 4: 'Programming'}
+'''
 
 #Education
-Dagestan State Technical University
-Applied Informatics in Economics
+**Dagestan State Technical University**
+*Applied Informatics in Economics*
 
 #Languages
 *Russian - native speaker.
