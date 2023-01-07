@@ -13,17 +13,17 @@ I'm into web programming. I want to learn new technologies for creating modern w
 
 ## Skills
 
-*HTML
+* HTML
 
-*CSS 
+* CSS 
 
-*Git/GitHub
+* Git/GitHub
 
-*Python(basic knowledge) - Django( basic knowledge), SQLite(basic knowledge)
+* Python(basic knowledge) - Django( basic knowledge), SQLite(basic knowledge)
 
-*Wordpress, Joomla
+* Wordpress, Joomla
 
-*Figma(for web development)
+* Figma(for web development)
 
 *Editors: Sublime, VSCode, PyCharm community.
 
@@ -43,9 +43,7 @@ dic1={1:"hello", 2:"world"}
 
 dic2={3:"Python", 4:"Programming"}
 
-merge(dic1,dic2) # {1: 'hello', 2: 'world', 3: 'Python', 4: 
-
-'Programming'}
+merge(dic1,dic2) # {1: 'hello', 2: 'world', 3: 'Python', 4: 'Programming'}
 
 ```
 ## Education
@@ -56,8 +54,8 @@ merge(dic1,dic2) # {1: 'hello', 2: 'world', 3: 'Python', 4:
 
 ## Languages
 
-*Russian - native speaker
+* Russian - native speaker
 
-*English - A2 (B1 in process…)
+* English - A2 (B1 in process…)
 
-*Turkish - A1
+* Turkish - A1
