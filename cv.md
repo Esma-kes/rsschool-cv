@@ -25,7 +25,7 @@ I'm into web programming. I want to learn new technologies for creating modern w
 
 * Figma(for web development)
 
-*Editors: Sublime, VSCode, PyCharm community.
+* Editors: Sublime, VSCode, PyCharm community.
 
 ## Code Examples
 
